@@ -1,0 +1,9 @@
+<my-page >
+    <view class="home">
+        <view class="home-hd">
+            <view class="home-hd__left"></view>
+            <view class="home-hd__right"></view>
+        </view>
+        <view class="home-bd"></view>
+    </view>
+</my-page>

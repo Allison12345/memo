@@ -1,0 +1,6 @@
+.home{
+    width: 100%;
+    height: 100%;
+    background-image: url("https://6d79-mywxapp-q4z0b-1301425530.tcb.qcloud.la/memo/memo-2.jpg?sign=d5f4f43b8cb9cb0b3a33c4a1c22415f7&t=1587192404");
+    background-size: cover;
+}
