@@ -1,5 +1,6 @@
 {
   "usingComponents": {
-    "my-page":"../../components/my-page/index"
+    "my-page":"../../components/my-page/index",
+    "my-icon":"../../components/my-icon/index"
   }
 }
